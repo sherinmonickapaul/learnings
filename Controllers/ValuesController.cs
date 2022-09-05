@@ -49,6 +49,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("New CDX0102 modified");
             l.Add("demo has modified");
             l.Add("demo web app");
+            l.Add("Update");
             return l;
         }
     }
